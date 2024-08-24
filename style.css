@@ -1,0 +1,55 @@
+button.box{
+    width: 90px;
+    height: 90px;
+    background-color: cadetblue;
+    color: black;
+    border-radius: 8px;
+    margin: 5px;
+    font-size: 60px;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    border: none;
+    cursor: pointer;
+}
+div{
+    display: flex;
+    margin-left: 38%;
+}
+body{
+    margin-top: 40px;
+    font-family: sans-serif;
+    background-color: bisque;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h2{
+    display: inline;
+    font-size: 40px;
+}
+h1.mnhd{
+    font-size: 40px;
+}
+h2.left{
+    margin-right: 750px;
+    
+}
+button.reset{
+    width: 150px;
+    height: 35px;
+    margin-top: 40px;
+    border-radius: 20px;
+    background-color: darkcyan;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+button.new{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    background-color: darkcyan;
+    border: none;
+    font-size: 18px;
+}
+div.hide{
+    display: none;
+}
